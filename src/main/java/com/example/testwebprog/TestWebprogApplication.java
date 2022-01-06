@@ -9,6 +9,7 @@ public class TestWebprogApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestWebprogApplication.class, args);
         System.out.println("Hei fra oving");
+        System.out.println("Hei fra terminal");
     }
 
 }
