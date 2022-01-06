@@ -10,6 +10,7 @@ public class TestWebprogApplication {
         SpringApplication.run(TestWebprogApplication.class, args);
         System.out.println("Hei fra oving");
         System.out.println("Hei fra terminal");
+        System.out.println("Hei fra github desktop");
     }
 
 }
